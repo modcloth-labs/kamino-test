@@ -6,3 +6,5 @@ Repo for testing kamino (https://github.com/modcloth/kamino), since kamino needs
 Committing some things.
 
 Committing some more things.
+
+**Committing all the things.**
