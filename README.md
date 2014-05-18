@@ -8,5 +8,3 @@ Committing some things.
 Committing some more things.
 
 **Committing all the things.**
-
-Moar commits.
