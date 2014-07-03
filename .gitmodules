@@ -1,0 +1,3 @@
+[submodule "kamino-test"]
+	path = kamino-test
+	url = https://github.com/modcloth-labs/kamino-test
